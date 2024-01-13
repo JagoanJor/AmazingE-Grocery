@@ -1,66 +1,40 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Preview of Amazing E-Grocery Website
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Landing Page
+![Screenshot (525)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/539e9ebc-4124-4e3a-b564-189f7d83de10)
 
-## About Laravel
+## Register
+![Screenshot (526)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/6407c16a-4ed3-4747-aed2-9688087d9e33)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Login
+![Screenshot (527)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/8d31bdeb-719b-4f0c-ab07-6a6c3fac6264)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Home
+![Screenshot (517)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/de7c9581-abb2-414a-bb15-b9b22af1828f)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Item Preview
+![Screenshot (518)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/4588d3c1-b59f-42e2-b367-95260fc1db4f)
 
-## Learning Laravel
+## Success Add to Cart
+![Screenshot (519)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/bfb33206-9121-440d-b802-444d707cb789)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Cart
+![Screenshot (520)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/a3b0db60-3c37-4108-86f9-7727cf2d05d0)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Success Checkout
+![Screenshot (521)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/30c40f65-82a4-4171-b90a-53707296e6cb)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Profile
+![Screenshot (523)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/6bb5ede0-d444-4433-b39f-669e9e49241f)
 
-## Laravel Sponsors
+## Account Maintenance
+![Screenshot (528)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/b1e41327-4099-4447-a8cd-2783f07e811c)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Update Role
+![Screenshot (529)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/b5004e99-9f3b-4738-b197-8e9a431b209b)
 
-### Premium Partners
+## Save Update
+![Screenshot (522)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/1d01305a-c236-4784-8d98-ec66e17829db)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Logout
+![Screenshot (524)](https://github.com/JagoanJor/AmazingE-Grocery/assets/114795333/d37faedf-b310-4bc4-b76b-e8b41944f2c1)
